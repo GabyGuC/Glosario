@@ -1,4 +1,4 @@
-####Glosario
+#Glosario
 
 
 ![hack](img/Glosario.png)
